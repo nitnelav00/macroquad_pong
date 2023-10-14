@@ -1,3 +1,3 @@
 ﻿# macroquad_pong
 
-Pong made with macroquad in Rust.
+Pong crée en Rust avec macroquad.
